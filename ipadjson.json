@@ -1,0 +1,100 @@
+[
+    {
+        "id":"p001",
+        "color": "寶寶藍",
+        "storage" : " 64GB",
+        "network" : "WI-FI",
+        "price" : 19000,
+        "picture":" "
+
+    },
+    {
+        "id": "p002",
+        "color": "寶寶藍",
+        "storage": " 64GB",
+        "network": "WI-FI",
+        "price": 19000,
+        "picture": " "
+    },
+    {
+        "id": "p003",
+        "color": "寶寶藍",
+        "storage": " 64GB",
+        "network": "WI-FI",
+        "price": 19000,
+        "picture": " "
+    },
+    {
+        "id": "p004",
+        "color": "寶寶藍",
+        "storage": " 64GB",
+        "network": "WI-FI",
+        "price": 19000,
+        "picture": " "
+    },
+    {
+        "id": "p005",
+        "color": "寶寶藍",
+        "storage": " 64GB",
+        "network": "WI-FI",
+        "price": 19000,
+        "picture": " "
+    },
+    {
+        "id": "p006",
+        "color": "寶寶藍",
+        "storage": " 64GB",
+        "network": "WI-FI",
+        "price": 19000,
+        "picture": " "
+    },
+    {
+        "id": "p007",
+        "color": "寶寶藍",
+        "storage": " 64GB",
+        "network": "WI-FI",
+        "price": 19000,
+        "picture": " "
+    },
+    {
+        "id": "p008",
+        "color": "寶寶藍",
+        "storage": " 64GB",
+        "network": "WI-FI",
+        "price": 19000,
+        "picture": " "
+    },
+    {
+        "id": "p009",
+        "color": "寶寶藍",
+        "storage": " 64GB",
+        "network": "WI-FI",
+        "price": 19000,
+        "picture": " "
+    },
+    {
+        "id": "p010",
+        "color": "寶寶藍",
+        "storage": " 64GB",
+        "network": "WI-FI",
+        "price": 19000,
+        "picture": " "
+    },
+    {
+        "id": "p011",
+        "color": "寶寶藍",
+        "storage": " 64GB",
+        "network": "WI-FI",
+        "price": 19000,
+        "picture": " "
+    },
+    {
+        "id": "p012",
+        "color": "寶寶藍",
+        "storage": " 64GB",
+        "network": "WI-FI",
+        "price": 19000,
+        "picture": " "
+    }
+    
+]
