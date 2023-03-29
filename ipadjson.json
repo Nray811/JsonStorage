@@ -1,100 +1,162 @@
 [
     {
-        "id":"p001",
-        "color": "寶寶藍",
-        "storage" : " 64GB",
-        "network" : "WI-FI",
-        "price" : 19000,
-        "picture":" "
-
+        "id": "A001",
+        "color": "太空灰",
+        "storage": "64GB",
+        "network": "Wi-Fi",
+        "price": 19000,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-space-gray?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1654903003209"
     },
     {
-        "id": "p002",
-        "color": "寶寶藍",
-        "storage": " 64GB",
-        "network": "WI-FI",
+        "id": "A002",
+        "color": "藍",
+        "storage": "64GB",
+        "network": "Wi-Fi",
         "price": 19000,
-        "picture": " "
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-blue?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1666991953754"
     },
     {
-        "id": "p003",
-        "color": "寶寶藍",
-        "storage": " 64GB",
-        "network": "WI-FI",
+        "id": "A003",
+        "color": "粉紅",
+        "storage": "64GB",
+        "network": "Wi-Fi",
         "price": 19000,
-        "picture": " "
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-pink?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1666991954257"
     },
     {
-        "id": "p004",
-        "color": "寶寶藍",
-        "storage": " 64GB",
-        "network": "WI-FI",
+        "id": "A004",
+        "color": "紫",
+        "storage": "64GB",
+        "network": "Wi-Fi",
         "price": 19000,
-        "picture": " "
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-payment-apple-care-plus-summary-202207-purple-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1667586457367"
     },
     {
-        "id": "p005",
-        "color": "寶寶藍",
-        "storage": " 64GB",
-        "network": "WI-FI",
+        "id": "A005",
+        "color": "星光",
+        "storage": "64GB",
+        "network": "Wi-Fi",
         "price": 19000,
-        "picture": " "
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-starlight-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670631590802"
     },
     {
-        "id": "p006",
-        "color": "寶寶藍",
-        "storage": " 64GB",
-        "network": "WI-FI",
+        "id": "A006",
+        "color": "太空灰",
+        "storage": "256GB",
+        "network": "Wi-Fi",
         "price": 19000,
-        "picture": " "
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-space-gray?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1654903003209"
     },
     {
-        "id": "p007",
-        "color": "寶寶藍",
-        "storage": " 64GB",
-        "network": "WI-FI",
+        "id": "A007",
+        "color": "藍",
+        "storage": "256GB",
+        "network": "Wi-Fi",
         "price": 19000,
-        "picture": " "
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-blue?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1666991953754"
     },
     {
-        "id": "p008",
-        "color": "寶寶藍",
-        "storage": " 64GB",
-        "network": "WI-FI",
+        "id": "A008",
+        "color": "粉紅",
+        "storage": "256GB",
+        "network": "Wi-Fi",
         "price": 19000,
-        "picture": " "
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-pink?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1666991954257"
     },
     {
-        "id": "p009",
-        "color": "寶寶藍",
-        "storage": " 64GB",
-        "network": "WI-FI",
+        "id": "A009",
+        "color": "紫",
+        "storage": "265GB",
+        "network": "Wi-Fi",
         "price": 19000,
-        "picture": " "
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-payment-apple-care-plus-summary-202207-purple-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1667586457367"
     },
     {
-        "id": "p010",
-        "color": "寶寶藍",
-        "storage": " 64GB",
-        "network": "WI-FI",
+        "id": "A010",
+        "color": "星光",
+        "storage": "256GB",
+        "network": "Wi-Fi",
         "price": 19000,
-        "picture": " "
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-starlight-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670631590802"
     },
     {
-        "id": "p011",
-        "color": "寶寶藍",
-        "storage": " 64GB",
-        "network": "WI-FI",
+        "id": "A011",
+        "color": "太空灰",
+        "storage": "64GB",
+        "network": "Wi-Fi + 行動網路",
         "price": 19000,
-        "picture": " "
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-space-gray?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1654903003209"
     },
     {
-        "id": "p012",
-        "color": "寶寶藍",
-        "storage": " 64GB",
-        "network": "WI-FI",
+        "id": "A012",
+        "color": "藍",
+        "storage": "64GB",
+        "network": "Wi-Fi + 行動網路",
         "price": 19000,
-        "picture": " "
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-blue?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1666991953754"
+    },
+    {
+        "id": "A013",
+        "color": "粉紅",
+        "storage": "64GB",
+        "network": "Wi-Fi + 行動網路",
+        "price": 19000,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-pink?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1666991954257"
+    },
+    {
+        "id": "A014",
+        "color": "紫",
+        "storage": "64GB",
+        "network": "Wi-Fi + 行動網路",
+        "price": 19000,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-payment-apple-care-plus-summary-202207-purple-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1667586457367"
+    },
+    {
+        "id": "A015",
+        "color": "星光",
+        "storage": "64GB",
+        "network": "Wi-Fi + 行動網路",
+        "price": 19000,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-starlight-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670631590802"
+    },
+    {
+        "id": "A016",
+        "color": "太空灰",
+        "storage": "256GB",
+        "network": "Wi-Fi + 行動網路",
+        "price": 19000,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-space-gray?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1654903003209"
+    },
+    {
+        "id": "A017",
+        "color": "藍",
+        "storage": "256GB",
+        "network": "Wi-Fi + 行動網路",
+        "price": 19000,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-blue?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1666991953754"
+    },
+    {
+        "id": "A018",
+        "color": "粉紅",
+        "storage": "256GB",
+        "network": "Wi-Fi + 行動網路",
+        "price": 19000,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-pink?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1666991954257"
+    },
+    {
+        "id": "A019",
+        "color": "紫",
+        "storage": "256GB",
+        "network": "Wi-Fi + 行動網路",
+        "price": 19000,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-payment-apple-care-plus-summary-202207-purple-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1667586457367"
+    },
+    {
+        "id": "A020",
+        "color": "星光",
+        "storage": "256GB",
+        "network": "Wi-Fi + 行動網路",
+        "price": 19000,
+        "picture": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-starlight-wifi?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1670631590802"
     }
-    
 ]
